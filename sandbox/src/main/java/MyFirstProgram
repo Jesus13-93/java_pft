@@ -1,0 +1,8 @@
+public class MyProgram ()
+{
+	public void main(String[] args)
+	{
+		System.println.out("Hello world!");
+	}
+	
+}
